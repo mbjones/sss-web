@@ -4,7 +4,7 @@ email: mbjones.89@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Where Science and Software meet.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://sss-web.github.io" # the base hostname & protocol for your site
+url: "http://mbjones.github.io/sss-web" # the base hostname & protocol for your site
 twitter_username: metamattj
 github_username:  mbjones
 
