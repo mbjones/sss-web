@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The {{ site.title }}  acts as a catalyst at the junction of science, data, and software, facilitating and accelerating advances across multiple disciplines.  Scientific software is used throughout the scientific lifecycle, from initial data acquisition in sensor systems, to data management, quality assurance, data integration, analysis and synthetic modeling.  Software touches every activity in science, and yet, it is largely invisible and unmanaged.  The {{ site.title }} changes this through programs in four fundamental services at the interface of science, software, and data:
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+- Science-software working groups
+- Community building 
+- Comprehensive training in data science
+- Support and consulting

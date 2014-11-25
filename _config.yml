@@ -1,8 +1,8 @@
 # Site settings
-title: Symbiosis
+title: Symbiosis Institute
 email: mbjones.89@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Where Science and Software meet.
+byline: Where Science, Software, and Data meet.
+description: The Symbiosis Institute acts as a catalyst at the junction of science, data, and software, facilitating and accelerating advances across multiple disciplines.  Scientific software is used throughout the scientific lifecycle, from initial data acquisition in sensor systems, to data management, quality assurance, data integration, analysis and synthetic modeling.  Software touches every activity in science, and yet, it is largely invisible and unmanaged.  The Symbiosis Institute catalzes fundamental services at the interface of science, software, and data.
 baseurl: "/sss-web" # the subpath of your site, e.g. /blog/
 url: "http://mbjones.github.io" # the base hostname & protocol for your site
 twitter_username: metamattj
@@ -10,3 +10,4 @@ github_username:  mbjones
 
 # Build settings
 markdown: kramdown
+
